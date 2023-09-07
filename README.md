@@ -1,4 +1,6 @@
-# git_commandsThese are common Git commands used in various situations:
+# git_commands
+
+These are common Git commands used in various situations:
 
 start a working area (see also: git help tutorial)
    clone     Clone a repository into a new directory
